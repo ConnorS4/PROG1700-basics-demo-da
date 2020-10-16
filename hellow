@@ -1,0 +1,7 @@
+git push -u origin maste
+print("Hello Everyone!")
+print("Hello")
+print("Goodbye")
+:wq
+:q
+
